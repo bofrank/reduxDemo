@@ -1,0 +1,24 @@
+{
+  "name": "reduxdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bofrank/reduxDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bofrank/reduxDemo/issues"
+  },
+  "homepage": "https://github.com/bofrank/reduxDemo#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
